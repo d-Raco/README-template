@@ -17,14 +17,17 @@ README template to be used in future projects.
 [README-template](https://github.com/d-Raco/README-template#README-template)
 + [Table of Contents](https://github.com/d-Raco/README-template#table-of-contents)
 + [Introduction](https://github.com/d-Raco/README-template#introduction)
++ [Context](https://github.com/d-Raco/README-template#context)
 + [Motivation](https://github.com/d-Raco/README-template#motivation)
 + [Proposed Solution](https://github.com/d-Raco/README-template#proposed-solution)
 + [Features](https://github.com/d-Raco/README-template#features)
 + [Requirements](https://github.com/d-Raco/README-template#requirements)
 + [Setup](https://github.com/d-Raco/README-template#setup)
 + [Usage](https://github.com/d-Raco/README-template#usage)
++ [Output](https://github.com/d-Raco/README-template#output)
 + [File Structure](https://github.com/d-Raco/README-template#file-structure)
 + [Technical Implementation](https://github.com/d-Raco/README-template#technical-implementation)
++ [Experimental Results](https://github.com/d-Raco/README-template#experimental-results)
 + [Development Guide](https://github.com/d-Raco/README-template#development-guide)
   - [X Module](https://github.com/d-Raco/README-template#x-module)
   - [Y Module](https://github.com/d-Raco/README-template#y-module)
@@ -33,6 +36,10 @@ README template to be used in future projects.
 ## Introduction
 
 Brief description of the project.
+
+## Context
+
+Description of the context in which the project was developed.
 
 ## Motivation
 
@@ -69,6 +76,10 @@ Make sure you comply with the [Requirements](https://github.com/d-Raco/README-te
 
 Description on how to use the project with examples.
 
+## Output
+
+Example of the output format.
+
 ## File Structure
 
 ```graphql
@@ -87,6 +98,10 @@ Description on how to use the project with examples.
 ## Technical Implementation
 
 Technical description of how the project has been implemented.
+
+## Experimental Results
+
+Some examples and the results obtained.
 
 ## Development Guide
 
