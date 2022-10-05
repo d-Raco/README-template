@@ -26,9 +26,8 @@ README template to be used in future projects.
 + [File Structure](https://github.com/d-Raco/README-template#file-structure)
 + [Technical Implementation](https://github.com/d-Raco/README-template#technical-implementation)
 + [Development Guide](https://github.com/d-Raco/README-template#development-guide)
-  - [Website Module](https://github.com/d-Raco/README-template#website-module)
-  - [Alert Module](https://github.com/d-Raco/README-template#alert-module)
-  - [Action](https://github.com/d-Raco/README-template#action)
+  - [X Module](https://github.com/d-Raco/README-template#x-module)
+  - [Y Module](https://github.com/d-Raco/README-template#y-module)
 + [ToDos](https://github.com/d-Raco/README-template#todos)
 
 ## Introduction
@@ -38,6 +37,10 @@ Brief description of the project.
 ## Motivation
 
 Reasons for developing the project.
+
+## Proposed Solution
+
+Detailed solution proposed by this project that addresses the problems that led to its creation.
 
 ## Features
 
@@ -54,9 +57,15 @@ Reasons for developing the project.
 
 Description on how to install and meet the requirements.
 
-## Usage
+## Setup
 
 Make sure you comply with the [Requirements](https://github.com/d-Raco/README-template#requirements).
+
+Description of how to prepare the project once the requirements have been carried out.
+
+## Usage
+
+Make sure you comply with the [Requirements](https://github.com/d-Raco/README-template#requirements) and [Setup](https://github.com/d-Raco/README-template#setup).
 
 Description on how to use the project with examples.
 
@@ -75,9 +84,21 @@ Description on how to use the project with examples.
     └── ... - # Description of the files
 ```
 
+## Technical Implementation
+
+Technical description of how the project has been implemented.
+
 ## Development Guide
 
 Guide on how to develop and add different functionalities to the project.
+
+### X Module
+
+x
+
+### Y Module
+
+y
 
 ## ToDos
 
@@ -86,5 +107,5 @@ Guide on how to develop and add different functionalities to the project.
 - [ ] etc...
 
 ---
-README template obtained from [README-template](https://github.com/d-Raco/README-template)
+README template obtained from [d-Raco/README-template](https://github.com/d-Raco/README-template)
 ---
