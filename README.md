@@ -28,10 +28,11 @@ README template to be used in future projects.
 + [File Structure](https://github.com/d-Raco/README-template#file-structure)
 + [Technical Implementation](https://github.com/d-Raco/README-template#technical-implementation)
 + [Experimental Results](https://github.com/d-Raco/README-template#experimental-results)
++ [Conclusions](https://github.com/d-Raco/README-template#conclusions)
 + [Development Guide](https://github.com/d-Raco/README-template#development-guide)
   - [X Module](https://github.com/d-Raco/README-template#x-module)
   - [Y Module](https://github.com/d-Raco/README-template#y-module)
-+ [ToDos](https://github.com/d-Raco/README-template#todos)
++ [Future Work](https://github.com/d-Raco/README-template#future-work)
 
 ## Introduction
 
@@ -103,6 +104,10 @@ Technical description of how the project has been implemented.
 
 Some examples and the results obtained.
 
+## Conclusions
+
+Overall conclusions of the project.
+
 ## Development Guide
 
 Guide on how to develop and add different functionalities to the project.
@@ -115,7 +120,7 @@ x
 
 y
 
-## ToDos
+## Future Work
 
 - [x] Develop x modules.
 - [ ] Print y.
